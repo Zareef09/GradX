@@ -1,6 +1,6 @@
 # GradX
 
-GradX is a degree-planning web app designed for University of Waterloo students to map majors, minors, and specializations with a personalized, user-friendly interface.
+GradX is a drag & drop degree-planning web app designed for University of Waterloo students to map majors, minors, and specializations with a personalized, user-friendly interface.
 
 ---
 
