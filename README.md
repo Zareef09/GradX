@@ -32,7 +32,7 @@ Showcases GradX’s core features, including personalized roadmaps, real-time va
 
 ### Testimonials Section
 ![Landing Page 3](docs/Home%20page%203.png)  
-Displays feedback from real students, highlighting how GradX reduces stress, prevents mistakes, and simplifies degree planning
+Displays feedback from real students, highlighting how GradX reduces stress, prevents mistakes, and simplifies degree planning.
 
 ### Course Explorer
 ![Course Explorer](docs/Course%20Explorer%20.png)  
