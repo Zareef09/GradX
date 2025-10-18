@@ -30,7 +30,7 @@ The homepage introduces GradX with a clean design, allowing students to start pl
 ![Landing Page 2](docs/Home%20page%202.png)  
 Showcases GradX’s core features, including personalized roadmaps, real-time validation, and an interactive drag-and-drop degree map
 
-### Testimonials Section
+## Testimonials Section
 ![Landing Page 3](docs/Home%20page%203.png)  
 Displays feedback from real students, highlighting how GradX reduces stress, prevents mistakes, and simplifies degree planning.
 
