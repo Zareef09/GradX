@@ -15,7 +15,7 @@ GradX is a drag & drop degree-planning web app designed for University of Waterl
 
 ## Tech Stack
 - **Frontend:** Next.js + React + Tailwind CSS  
-- **Backend (Planned):** FastAPI + PostgreSQL  
+- **Backend:** FastAPI + PostgreSQL  
 - **Hosting:** Firebase  
 
 ---
